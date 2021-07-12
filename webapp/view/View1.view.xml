@@ -12,6 +12,7 @@
                         <Text text="Sachin" class="animate__animated animate__wobble"/>
                         <Text text="Arnab"/>
                         <Text text="Vinitha"/>
+                        <Text text="aryan"/>
                     </VBox>
                     
 				</Page>
