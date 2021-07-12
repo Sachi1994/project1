@@ -8,6 +8,7 @@
 		<App id="app">
 			<pages>
 				<Page id="page" title="App Title">
+                    <VBox width="100%" height="30em" id="mapBox"></VBox>
                     <VBox>
                         <Text text="Sachin" class="animate__animated animate__wobble"/>
                         <Text text="Arnab"/>
