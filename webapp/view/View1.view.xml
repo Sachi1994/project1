@@ -12,9 +12,9 @@
                     <VBox>
                         <Text text="Sachin" class="animate__animated animate__wobble"/>
                         <Text text="Arnab"/>
+                        <Text text="Bhanu"/>
                         <Text text="Vinitha"/>
                     </VBox>
-                    
 				</Page>
 			</pages>
 		</App>
