@@ -10,7 +10,7 @@
 				<Page id="page" title="App Title">
                     <VBox>
                         <Text text="Sachin" class="animate__animated animate__wobble"/>
-                        <Text text="Arnab"/>
+                        <Text text="Vishnu"/>
                     </VBox>
                     
 				</Page>
